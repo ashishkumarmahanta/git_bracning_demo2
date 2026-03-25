@@ -1,1 +1,2 @@
 Welcome to the App
+Login feature coming soon
